@@ -1,2 +1,2 @@
 # BackTracking
-coloring graph
+coloring graph with 'm' colors for n nodes.
