@@ -26,7 +26,7 @@ class ColorGraph
             return;
           for(int j=1; j<n;j++)
           {
-             if(//to write condition)
+             if(//djacenecy matrix should have value 1 and x[k] != prvious of x[k] for same k)
                 return;
           }
       
